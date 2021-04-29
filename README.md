@@ -4,3 +4,5 @@
 * Mi nombre es Luna Acosta
 * Mi nombre es Carlos Emiliano García Mojica
     * Mi nombre en clave es Choclopasta 
+* Mi nombre es Andreco Juarez
+  * Mi nombre secreto es Sogoro
